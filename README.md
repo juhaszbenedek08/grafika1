@@ -21,3 +21,8 @@ Each node has a unique texture.
 
 ## Result
 
+Before SPACE: <br />
+![Before](https://user-images.githubusercontent.com/59647190/161547995-0287c917-93bd-48aa-9f29-59b5a64e1b69.png)
+
+After SPACE: <br />
+![After](https://user-images.githubusercontent.com/59647190/161548504-80d5dd6c-f38d-4abc-a52e-2994f6a7767e.png)
